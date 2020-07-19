@@ -1,4 +1,4 @@
-n = int(input("enter a no >= 15 for better pattern \n" ) or 15)
+n = int(input("enter a no >= 10 for home pattern \n" ) or 15)
 for i in range(int(2*n/3)+1):
     if i==0:
         print((int(n/6)+1)*'  '+(n-2*(int(n/6)+1))*'* ')    
@@ -15,4 +15,4 @@ for i in range(int(2*n/3)+1):
     else:
         print('* '+'  '*x+'* '+(n-x-3)*'  '+'*')
 
-print(" "*int(abs(n*2-19)/2)+"STAY HOME STAY SAFE")
+print(" "*int((n*2-19)/2)+"STAY HOME STAY SAFE")
