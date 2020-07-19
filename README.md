@@ -16,4 +16,4 @@ enter a no >= 15 for better pattern 18
 *    !     !    *                 *                                                                                                                                     
 *    !     !    *                 *                                                                                                                                         
 * * * * * * * * * * * * * * * * * *                                                                                                                                             
-        STAY HOME STAY SAFE
+        STAY HOME STAY SAFE                                                                                                                                                         
